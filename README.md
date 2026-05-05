@@ -57,6 +57,7 @@ pip install -r requirements.txt
 ## View Analysis
 
 Open the HTML file in your browser to see the complete analysis:
+
 ```bash
 Titanic-Details-ShahZeb_html.html
 ```
@@ -70,3 +71,7 @@ Titanic-Details-ShahZeb_html.html
 5. **Model Evaluation** - Accuracy, precision, recall, and feature importance analysis
 
 ## Results
+
+Best Model: Random Forest
+Accuracy: 82.68%
+Best Technique: GridSearchCV Hyperparameter Tuning
